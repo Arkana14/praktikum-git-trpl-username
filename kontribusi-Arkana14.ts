@@ -1,0 +1,1 @@
+console.log("Halo, ini kontribusi Arkana14 pada proyek TRPL.");
